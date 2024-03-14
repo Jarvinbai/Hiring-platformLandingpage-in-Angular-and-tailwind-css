@@ -1,0 +1,37 @@
+[
+    {
+        "job_title":"Angular Developer",
+        "location":"Trivandrum",
+        "customer":"Internal"
+    },
+    {
+        "job_title":"php Developer",
+        "location":"kochi",
+        "customer":"Wipro"
+    },
+    {
+        "job_title":"c++ Developer",
+        "location":"Trivandrum",
+        "customer":"Internal"
+    },
+    {
+        "job_title":". NET Developer",
+        "location":"Banglore",
+        "customer":"Internal"
+    },
+    {
+        "job_title":"Laravel Developer",
+        "location":"Trivandrum",
+        "customer":"tcs"
+    },
+    {
+        "job_title":"Reactjs Developer",
+        "location":"Trivandrum",
+        "customer":"Internal"
+    },
+    {
+        "job_title":"Django Developer",
+        "location":"Trivandrum",
+        "customer":"Internal"
+    }
+]

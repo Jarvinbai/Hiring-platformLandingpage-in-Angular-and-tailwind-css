@@ -1,0 +1,51 @@
+[
+    {
+        "name":"Harshit",
+        "location":"Trivandrum",
+        "category":"Finance",
+        "job_title":"Harshit",
+        "customer":"Finance"
+    },
+    {
+        "name":"Antony",
+        "location":"Kochi",
+        "category":"Team lead",
+        "job_title":"Antony",
+        "customer":"Team lead"
+    },
+    {
+        "name":"Ashique",
+        "location":"Banglore",
+        "category":"Developer",
+        "job_title":"Ashique",
+        "customer":"Developer"
+    },
+    {
+        "name":"Hashim",
+        "location":"Kochi",
+        "category":"Tester",
+        "job_title":"Hashim",
+        "customer":"Tester"
+    },
+    {
+        "name":"Dilshad",
+        "location":"Noida",
+        "category":"Developer",
+        "job_title":"Dilshad",
+        "customer":"Noida"
+    },
+    {
+        "name":"Hemand",
+        "location":"Trivandrum",
+        "category":"Finance",
+        "job_title":"Hemand",
+        "customer":"Finance"
+    },
+    {
+        "name":"Abhijith",
+        "location":"Trivandrum",
+        "category":"Developer",
+        "job_title":"Abhijith",
+        "customer":"Developer"
+    }
+]

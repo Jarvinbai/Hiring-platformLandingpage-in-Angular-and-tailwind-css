@@ -1,0 +1,15 @@
+<div class="border border-violet-100 rounded-3xl p-5">
+    <div class="flex justify-between mt-3 items-center">
+        <div class="items-center">
+            <p class="text-slate-500 font-light">{{ input.location}}</p>
+        </div>
+        <div>
+            <button class="px-5 py-2 bg-violet-50 rounded-md text-opacity-80 text-violet-600">{{ input.customer }}</button>
+        </div>
+    </div>
+    <h3 class="leading-tight mt-3 text-slate-700 transition-all duration-500 hover:text-violet-600 font-semibold text-lg">
+        {{ input.job_title }}
+    </h3>
+    <app-jobs-footer [job]="castToJobs(input)" *ngIf="this.type ==='J'" class="mt-3 block"></app-jobs-footer>
+    <app-candidates-footer [candidate]="castToCandidates(input)" *ngIf="this.type ==='C'" class="mt-3 block"></app-candidates-footer>
+</div>

@@ -1,0 +1,11 @@
+<section class="pt-24">
+    <app-heading
+    subHeading = ""
+    headingText1 = "Explore Our Latest"
+    headingText2 ="Job Opportunities"
+    >
+    </app-heading>
+    <div class="container mx-auto flex flex-wrap">
+        <app-card *ngFor="let job of this.jobs" class="w-full md:w-1/3 p-3" type="J" [input]="job"></app-card>
+    </div>
+</section>
